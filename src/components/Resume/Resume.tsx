@@ -34,15 +34,6 @@ const useStyles = makeStyles({
         padding: '1em',
         color: 'black'
     },
-    main: {
-        width: '100%',
-        height: '100%',
-        backgroundSize: 'cover',
-        backgroundRepeat: 'no-repeat',
-        backgroundPosition: 'center',
-        // backgroundImage: 'url(https://aaronwieldraayer.w3spaces.com/tennis.jpg?bypass-cache=1632183704)',
-        position: 'absolute',
-    },     
 })
 
 interface Props{

@@ -72,7 +72,7 @@ export const Home = (props:Props) =>{
             <nav>
                 <div className={classes.navbar_container}>
                     <h1 className={ `${classes.logo} `}>
-                        <a href="#" className={ `${classes.logo_a} ${classes.logo_navigation}` }>Aaron Wieldraayer</a>
+                        <a href="#" className={ `${classes.logo_a} ${classes.logo_navigation}` }>Coding Portfolio</a>
                     </h1>
                     <ul className={ `${classes.navigation} ${classes.logo_navigation}` }>
                         <li>
